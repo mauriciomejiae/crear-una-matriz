@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\crear una matriz\crear una matriz\bin\Debug\crear una matriz.exe.config
+C:\Users\Mauricio M\Downloads\crear una matriz\crear una matriz\bin\Debug\crear una matriz.exe
+C:\Users\Mauricio M\Downloads\crear una matriz\crear una matriz\bin\Debug\crear una matriz.pdb
+C:\Users\Mauricio M\Downloads\crear una matriz\crear una matriz\obj\Debug\crear una matriz.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\crear una matriz\crear una matriz\obj\Debug\crear una matriz.exe
+C:\Users\Mauricio M\Downloads\crear una matriz\crear una matriz\obj\Debug\crear una matriz.pdb
